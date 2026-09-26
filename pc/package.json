@@ -1,0 +1,11 @@
+{
+  "name": "abjad-talisman-pc",
+  "private": true,
+  "type": "module",
+  "bin": { "wafq": "reveal.ts" },
+  "scripts": {
+    "start": "node talisman.ts",
+    "test": "node --test lib.test.ts",
+    "dist": "node build-dist.ts"
+  }
+}

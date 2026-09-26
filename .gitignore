@@ -1,0 +1,12 @@
+firmware/.pio/
+firmware/include/secrets.h
+pc/dist/
+node_modules/
+# vendored libs: keep sources only
+firmware/lib/lvgl/demos/
+firmware/lib/lvgl/examples/
+firmware/lib/lvgl/scripts/
+firmware/lib/lvgl/env_support/
+firmware/lib/lvgl/docs/
+firmware/lib/lvgl/tests/
+firmware/lib/arduino_xpt2046_library/datasheet/
